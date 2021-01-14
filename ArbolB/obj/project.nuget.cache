@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "WuXcFgxDT3UCTNx5AIjNRlg3vqsEyOs6Nr72vyQeX30gdjAuPBwE0H3SV+PI5PaXDybOK40paxdifTsRJRzQLQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hp\\Source\\Repos\\ArbolBinario\\ArbolB\\ArbolB\\ArbolB.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hp\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
